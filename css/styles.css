@@ -124,11 +124,7 @@ a{
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
-.topic-link {
-    display: flex;
-    flex-direction: column;
-}
 
-.topic-link img {
-    order: -1;
+.topic-link > img {
+    
 }
